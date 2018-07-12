@@ -22,14 +22,25 @@
 	border-radius: 30%;
 }
 /*Adds shadow to element on hover*/
-.nav-element:hover, .btn:hover {
+.nav-element:hover, .btn-green:hover {
 	box-shadow: 0 10px 5px rgba(0, 0, 0, 0.6);
 }
-.nav-element:active, .btn:active {
+.nav-element:active, .btn-green:active {
 	transform: translateY(.1rem);
 }
 
 a {
 	color: ghostwhite;
-	list-style: none;
 	text-decoration: none;
+}
+
+.btn-green {
+	display: inline-block;
+	width: 10%;
+	height: auto;
+	background-color: forestgreen;
+	border-radius: 50%;
+	border: none;
+	padding: 10px;
+	width: 64px;
+}
