@@ -14,7 +14,7 @@
 		<div>
 			<h3>Interaction Flow</h3>
 			<ul>
-				<li>Toby clicks on input field to type in a review</li>
+				<li>Toby clicks on input field to type text in a review</li>
 				<li>Site captures his information in the input field and displays his text</li>
 				<li>Toby clicks on the post review button</li>
 				<li>Site displays his review</li>
