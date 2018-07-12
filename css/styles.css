@@ -3,3 +3,33 @@
 	font-weight: bold;
 	margin-right: 10px;
 }
+
+/*Controls the navigation*/
+.nav {
+	position: absolute;
+	width: 100%;
+	background-color: darkgreen;
+}
+.nav-element {
+	background-color:forestgreen;
+	display: inline-block;
+	position: relative;
+	float: left;
+	padding: 1rem;
+	margin: .4rem;
+	margin-bottom: .8rem;
+	text-align: center;
+	border-radius: 30%;
+}
+/*Adds shadow to element on hover*/
+.nav-element:hover, .btn:hover {
+	box-shadow: 0 10px 5px rgba(0, 0, 0, 0.6);
+}
+.nav-element:active, .btn:active {
+	transform: translateY(.1rem);
+}
+
+a {
+	color: ghostwhite;
+	list-style: none;
+	text-decoration: none;
