@@ -18,7 +18,9 @@
 		</div>
 		<div>
 			<h3>Attitude</h3>
-			<p>Toby is a college student who loves music and attending concerts. His motto is "Study hard, party hard". He especially loves being able to share his experiences with his friends. He is the type to live in the moment and wants to be able to post reviews on the go</p>
+			<p>Toby is a college student who loves music and attending concerts. His motto is "Study hard, party hard".
+				He especially loves being able to share his experiences with his friends. He is the type to live in the moment
+				and wants to be able to post reviews on the go.</p>
 
 			<h3>Needs</h3>
 			<ul>
