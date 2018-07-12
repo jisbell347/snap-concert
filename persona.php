@@ -45,5 +45,10 @@
 				<li>Mainly uses phone for browsing the web and uses laptop for school and gaming.</li>
 			</ul>
 		</div>
+		<div>
+			<button class="btn-green">
+				<a href="./index.php">Back to Home</a>
+			</button>
+		</div>
 	</body>
 </html>
