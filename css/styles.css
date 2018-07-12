@@ -1,3 +1,4 @@
+/*bolds the font and adds a small margin on right side of element*/
 .bold {
 	font-weight: bold;
 	margin-right: 10px;
