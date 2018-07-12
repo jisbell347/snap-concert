@@ -31,6 +31,14 @@
 				<li>Does not want to go through multiple menus</li>
 				<li>Wants to be able to add comments to other's reviews</li>
 			</ul>
+			<h3>Technology</h3>
+			<ul>
+				<li>Comfort Level: High</li>
+				<li>Wants to get the newest version phone possible but sometimes can't afford to</li>
+				<li>Owns a Google Pixel 1 XL, Android 7.1 OS, 5.5in screen</li>
+				<li>Dell G3579-5941BLK-PUS G3 15 3579 - 15.6" LED Display - 8th Gen Intel i5 Processor Windows 10 OS</li>
+				<li>Mainly uses phone for browsing the web and uses laptop for school and gaming</li>
+			</ul>
 		</div>
 	</body>
 </html>
